@@ -1,0 +1,2591 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-29 10:55+0530\n"
+"PO-Revision-Date: 2016-11-29 10:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: D:/xampp/htdocs/medical-pro-final/wp-content/themes/"
+"medical-pro\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+"X-Poedit-SearchPathExcluded-2: fonts\n"
+"X-Poedit-SearchPathExcluded-3: images\n"
+"X-Poedit-SearchPathExcluded-4: vendors\n"
+
+#: 404.php:12
+msgid "Are you trying break our site or something?"
+msgstr ""
+
+#: 404.php:12
+msgid "i mean ?  Move along. There is nothing to see here."
+msgstr ""
+
+#: 404.php:13
+msgid "go home page"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:45 single.php:77
+msgid "play"
+msgstr ""
+
+#: content-audio.php:46 single.php:78
+msgid "pause"
+msgstr ""
+
+#: content-audio.php:47 single.php:79
+msgid "mute"
+msgstr ""
+
+#: content-audio.php:48 single.php:80
+msgid "unmute"
+msgstr ""
+
+#: content-gallery.php:18 content-gallery.php:29 content-link.php:11
+#: vc_extend/department.php:184
+msgid "read more"
+msgstr ""
+
+#: content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:17 footer.php:19 footer.php:36 footer.php:38
+#: include/medicalpro-config.php:1704
+msgid "BOOK YOUR APPOINTMENT"
+msgstr ""
+
+#: functions.php:36
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:137
+msgid "Blog Post"
+msgstr ""
+
+#: functions.php:138
+msgid "This sidebar is for blog posts."
+msgstr ""
+
+#: functions.php:148
+msgid "Service Detail Page"
+msgstr ""
+
+#: functions.php:149
+msgid "This sidebar is for service detail page."
+msgstr ""
+
+#: functions.php:159
+msgid "Department Detail Page"
+msgstr ""
+
+#: functions.php:160
+msgid "This sidebar is for department detail page."
+msgstr ""
+
+#: functions.php:170
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:171 functions.php:182 functions.php:193
+msgid "This widget is for footer."
+msgstr ""
+
+#: functions.php:181
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:192
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:203
+msgid "Shop"
+msgstr ""
+
+#: functions.php:204
+msgid "This widget is for Shop."
+msgstr ""
+
+#: include/ajax.php:30 include/ajax.php:72 include/ajax.php:148
+#: include/ajax.php:227 include/ajax.php:247
+msgid "Error while submitting form."
+msgstr ""
+
+#: include/ajax.php:35
+msgid "First Name must be required."
+msgstr ""
+
+#: include/ajax.php:40
+msgid "Last Name must be required."
+msgstr ""
+
+#: include/ajax.php:45
+msgid "Email must be required."
+msgstr ""
+
+#: include/ajax.php:50
+msgid "Booking Date must be required."
+msgstr ""
+
+#: include/ajax.php:55
+msgid "Message must be required."
+msgstr ""
+
+#: include/ajax.php:60
+msgid "Please enter valid email."
+msgstr ""
+
+#: include/ajax.php:67
+msgid "Please select valid booking date."
+msgstr ""
+
+#: include/ajax.php:111 include/ajax.php:191 include/ajax.php:277
+msgid "Form has been submitted successfully."
+msgstr ""
+
+#: include/ajax.php:153
+msgid "All field are required."
+msgstr ""
+
+#: include/ajax.php:158 include/ajax.php:242
+msgid "Please enter valid email address."
+msgstr ""
+
+#: include/ajax.php:232
+msgid "Please enter your name."
+msgstr ""
+
+#: include/ajax.php:237
+msgid "Please enter your email address."
+msgstr ""
+
+#: include/medicalpro-config.php:41 include/medicalpro-config.php:43
+msgid "MedicalPro Options"
+msgstr ""
+
+#: include/medicalpro-config.php:174 include/theme-functions.php:673
+msgid "Home"
+msgstr ""
+
+#: include/medicalpro-config.php:181
+msgid "Favicon"
+msgstr ""
+
+#: include/medicalpro-config.php:184
+msgid "Add/Upload Your Website Favicon here"
+msgstr ""
+
+#: include/medicalpro-config.php:189
+msgid "Default Header"
+msgstr ""
+
+#: include/medicalpro-config.php:190
+msgid ""
+"Select Header you want to display on page if header is not select while page "
+"creation."
+msgstr ""
+
+#: include/medicalpro-config.php:192 include/medicalpro-config.php:1093
+#: include/medicalpro-config.php:1670
+msgid "1st Variation"
+msgstr ""
+
+#: include/medicalpro-config.php:193 include/medicalpro-config.php:1094
+#: include/medicalpro-config.php:1671
+msgid "2nd Variation"
+msgstr ""
+
+#: include/medicalpro-config.php:194
+msgid "3nd Variation"
+msgstr ""
+
+#: include/medicalpro-config.php:201
+msgid "Display Schedule Text or Social Icon Top Bar"
+msgstr ""
+
+#: include/medicalpro-config.php:210
+msgid "Schedule Text"
+msgstr ""
+
+#: include/medicalpro-config.php:211
+msgid "Provide the Schedule text to display in header top bar"
+msgstr ""
+
+#: include/medicalpro-config.php:218
+msgid "Schedule Text Label"
+msgstr ""
+
+#: include/medicalpro-config.php:219
+msgid "Provide the Schedule text label to display in header top bar"
+msgstr ""
+
+#: include/medicalpro-config.php:226
+msgid "Social Icons on header"
+msgstr ""
+
+#: include/medicalpro-config.php:227
+msgid "Do you want to display social icons in header ?"
+msgstr ""
+
+#: include/medicalpro-config.php:229 include/medicalpro-config.php:1739
+msgid "Display"
+msgstr ""
+
+#: include/medicalpro-config.php:230 include/medicalpro-config.php:1740
+msgid "Hide"
+msgstr ""
+
+#: include/medicalpro-config.php:236 include/medicalpro-config.php:1221
+#: include/widget-footer-newsletter.php:41 vc_extend/appointment_form.php:106
+msgid "Email Address"
+msgstr ""
+
+#: include/medicalpro-config.php:237
+msgid "Provide the Email Address to display in header top bar"
+msgstr ""
+
+#: include/medicalpro-config.php:243 include/medicalpro-config.php:1228
+msgid "Phone No."
+msgstr ""
+
+#: include/medicalpro-config.php:244
+msgid "Provide the Phone No. to display in header top bar"
+msgstr ""
+
+#: include/medicalpro-config.php:250
+msgid "Display Breadcrumb on header"
+msgstr ""
+
+#: include/medicalpro-config.php:251
+msgid "Do you want to display Breadcrumb on header?"
+msgstr ""
+
+#: include/medicalpro-config.php:259
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: include/medicalpro-config.php:260
+msgid "Provide the Breadcrumb Separator"
+msgstr ""
+
+#: include/medicalpro-config.php:270
+msgid "Styling Option"
+msgstr ""
+
+#: include/medicalpro-config.php:272
+msgid "This section contains header styles options."
+msgstr ""
+
+#: include/medicalpro-config.php:284 include/medicalpro-config.php:1090
+msgid "Header Style"
+msgstr ""
+
+#: include/medicalpro-config.php:286
+msgid "This section contains Header theme styles options."
+msgstr ""
+
+#: include/medicalpro-config.php:297
+msgid "Menu Color"
+msgstr ""
+
+#: include/medicalpro-config.php:307
+msgid "Menu hover Color"
+msgstr ""
+
+#: include/medicalpro-config.php:318
+msgid "Sub-Menu Color"
+msgstr ""
+
+#: include/medicalpro-config.php:331
+msgid "Sub-Menu hover Color"
+msgstr ""
+
+#: include/medicalpro-config.php:341
+msgid "Menu Font"
+msgstr ""
+
+#: include/medicalpro-config.php:342 include/medicalpro-config.php:381
+#: include/medicalpro-config.php:487
+msgid "Select the font for headings."
+msgstr ""
+
+#: include/medicalpro-config.php:343 include/medicalpro-config.php:508
+msgid "Karla is default font."
+msgstr ""
+
+#: include/medicalpro-config.php:360
+msgid "Header Top bar font Color"
+msgstr ""
+
+#: include/medicalpro-config.php:370
+msgid "Header Top bar Background Color"
+msgstr ""
+
+#: include/medicalpro-config.php:380
+msgid "Topbar Font"
+msgstr ""
+
+#: include/medicalpro-config.php:382 include/medicalpro-config.php:488
+msgid "Lato is default font."
+msgstr ""
+
+#: include/medicalpro-config.php:399
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: include/medicalpro-config.php:413
+msgid "Basic Style"
+msgstr ""
+
+#: include/medicalpro-config.php:415
+msgid "This section contains Basic theme styles options."
+msgstr ""
+
+#: include/medicalpro-config.php:426
+msgid "Primary Color"
+msgstr ""
+
+#: include/medicalpro-config.php:441
+msgid "Secondary Color"
+msgstr ""
+
+#: include/medicalpro-config.php:452
+msgid "Third Color"
+msgstr ""
+
+#: include/medicalpro-config.php:464
+msgid "Fourth Color"
+msgstr ""
+
+#: include/medicalpro-config.php:478
+msgid "Do you want to change fonts?"
+msgstr ""
+
+#: include/medicalpro-config.php:480 include/vc-update.php:15
+msgid "Yes"
+msgstr ""
+
+#: include/medicalpro-config.php:481 include/vc-update.php:14
+msgid "No"
+msgstr ""
+
+#: include/medicalpro-config.php:486
+msgid "Headings Font"
+msgstr ""
+
+#: include/medicalpro-config.php:506
+msgid "Text Font"
+msgstr ""
+
+#: include/medicalpro-config.php:507
+msgid "Select the font for body text."
+msgstr ""
+
+#: include/medicalpro-config.php:527
+msgid "Headings Color"
+msgstr ""
+
+#: include/medicalpro-config.php:538
+msgid "Text Color"
+msgstr ""
+
+#: include/medicalpro-config.php:556
+msgid "Link Color"
+msgstr ""
+
+#: include/medicalpro-config.php:568
+msgid "Link Color in Page and Post Contents"
+msgstr ""
+
+#: include/medicalpro-config.php:581
+msgid "Quick CSS"
+msgstr ""
+
+#: include/medicalpro-config.php:582
+msgid ""
+"You can use this box for some quick css changes. For big changes, Use the "
+"custom.css file in css folder. In case of child theme please use style.css "
+"file in child theme."
+msgstr ""
+
+#: include/medicalpro-config.php:592
+msgid "Book Appointment Form Style"
+msgstr ""
+
+#: include/medicalpro-config.php:594
+msgid "This section contains Book Appointment Form theme styles options."
+msgstr ""
+
+#: include/medicalpro-config.php:601
+msgid "Book Appointment Form Color"
+msgstr ""
+
+#: include/medicalpro-config.php:610
+msgid "Book Appointment Form Field Separator Color"
+msgstr ""
+
+#: include/medicalpro-config.php:620
+msgid "Book Appointment Form label Color"
+msgstr ""
+
+#: include/medicalpro-config.php:630
+msgid "Book Appointment Form Field Text Color"
+msgstr ""
+
+#: include/medicalpro-config.php:642
+msgid "Header"
+msgstr ""
+
+#: include/medicalpro-config.php:656
+msgid "Header 1"
+msgstr ""
+
+#: include/medicalpro-config.php:663
+msgid "Display Top Header Bar on Header Style 1"
+msgstr ""
+
+#: include/medicalpro-config.php:664 include/medicalpro-config.php:1072
+msgid "Do you want to display Top Header Bar on Header Style 1 ?"
+msgstr ""
+
+#: include/medicalpro-config.php:673 include/medicalpro-config.php:811
+#: include/medicalpro-config.php:946 include/medicalpro-config.php:1081
+msgid "Logo"
+msgstr ""
+
+#: include/medicalpro-config.php:674 include/medicalpro-config.php:812
+#: include/medicalpro-config.php:947 include/medicalpro-config.php:1082
+msgid ""
+"Upload logo image for your Website. Otherwise site title will be displayed "
+"in place of logo."
+msgstr ""
+
+#: include/medicalpro-config.php:689 include/medicalpro-config.php:827
+#: include/medicalpro-config.php:962 include/medicalpro-config.php:1108
+msgid "Top Margin for Main Menu"
+msgstr ""
+
+#: include/medicalpro-config.php:690 include/medicalpro-config.php:828
+#: include/medicalpro-config.php:963 include/medicalpro-config.php:1109
+msgid ""
+"You can provide the top margin in pixels for main menu, To make it look well "
+"in the middle of your uploaded logo."
+msgstr ""
+
+#: include/medicalpro-config.php:698
+msgid "Display Book Appointment button on Header Style 1"
+msgstr ""
+
+#: include/medicalpro-config.php:699
+msgid "Do you want to display Book Appointment button on Header Style 1 ?"
+msgstr ""
+
+#: include/medicalpro-config.php:707 include/medicalpro-config.php:845
+#: include/medicalpro-config.php:980
+msgid "Book Appointment Button Text"
+msgstr ""
+
+#: include/medicalpro-config.php:708 include/medicalpro-config.php:846
+#: include/medicalpro-config.php:981
+msgid "Provide the Book Appointment Button Name"
+msgstr ""
+
+#: include/medicalpro-config.php:715
+msgid "Display Slider or Image on Header Style 1"
+msgstr ""
+
+#: include/medicalpro-config.php:724 include/medicalpro-config.php:861
+#: include/medicalpro-config.php:996 include/medicalpro-config.php:1135
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: include/medicalpro-config.php:732
+msgid "Banner Image for Header Style 1"
+msgstr ""
+
+#: include/medicalpro-config.php:734
+msgid "Upload your image to display in Header Style 1"
+msgstr ""
+
+#: include/medicalpro-config.php:743 include/medicalpro-config.php:879
+#: include/medicalpro-config.php:1014 include/medicalpro-config.php:1153
+#: vc_extend/department.php:18 vc_extend/doctors.php:18
+#: vc_extend/future_boxes.php:16 vc_extend/recent_posts.php:18
+#: vc_extend/services.php:18 vc_extend/testimonials.php:18
+msgid "Sub Title"
+msgstr ""
+
+#: include/medicalpro-config.php:744 include/medicalpro-config.php:880
+#: include/medicalpro-config.php:1015
+msgid "Provide the Sub Title to display in header"
+msgstr ""
+
+#: include/medicalpro-config.php:750 include/medicalpro-config.php:886
+#: include/medicalpro-config.php:1021 include/medicalpro-config.php:1161
+#: vc_extend/appointment_horizontal_form.php:25 vc_extend/department.php:25
+#: vc_extend/doctors.php:25 vc_extend/future_boxes.php:21
+#: vc_extend/recent_posts.php:25 vc_extend/services.php:25
+#: vc_extend/testimonials.php:25
+msgid "Title"
+msgstr ""
+
+#: include/medicalpro-config.php:751 include/medicalpro-config.php:887
+#: include/medicalpro-config.php:1022
+msgid "Provide the Title to display in header"
+msgstr ""
+
+#: include/medicalpro-config.php:757 include/medicalpro-config.php:893
+#: include/medicalpro-config.php:1028 include/medicalpro-config.php:1169
+msgid "Do you want to display drop on banner"
+msgstr ""
+
+#: include/medicalpro-config.php:767 include/medicalpro-config.php:903
+#: include/medicalpro-config.php:1038 include/medicalpro-config.php:1179
+msgid "Drop Image for header"
+msgstr ""
+
+#: include/medicalpro-config.php:769 include/medicalpro-config.php:905
+#: include/medicalpro-config.php:1040 include/medicalpro-config.php:1181
+msgid "Upload your image to display as drop on header"
+msgstr ""
+
+#: include/medicalpro-config.php:778 include/medicalpro-config.php:914
+#: include/medicalpro-config.php:1049 include/medicalpro-config.php:1190
+msgid "Header Drop Background Color"
+msgstr ""
+
+#: include/medicalpro-config.php:794
+msgid "Header 2"
+msgstr ""
+
+#: include/medicalpro-config.php:801
+msgid "Display Top Header Bar on Header Style 2"
+msgstr ""
+
+#: include/medicalpro-config.php:802
+msgid "Do you want to display Top Header Bar on Header Style 2 ?"
+msgstr ""
+
+#: include/medicalpro-config.php:836
+msgid "Display Book Appointment button on Header Style 2"
+msgstr ""
+
+#: include/medicalpro-config.php:837
+msgid "Do you want to display Book Appointment button on Header Style 2 ?"
+msgstr ""
+
+#: include/medicalpro-config.php:853
+msgid "Display Slider or Image on Header Style 2"
+msgstr ""
+
+#: include/medicalpro-config.php:869
+msgid "Banner Image for Header Style 2"
+msgstr ""
+
+#: include/medicalpro-config.php:870
+msgid "Upload your image to display in Header Style 2"
+msgstr ""
+
+#: include/medicalpro-config.php:929
+msgid "Header 3"
+msgstr ""
+
+#: include/medicalpro-config.php:936
+msgid "Display Top Header Bar on Header Style 3"
+msgstr ""
+
+#: include/medicalpro-config.php:937
+msgid "Do you want to display Top Header Bar on Header Style 3 ?"
+msgstr ""
+
+#: include/medicalpro-config.php:971
+msgid "Display Book Appointment button on Header Style 3"
+msgstr ""
+
+#: include/medicalpro-config.php:972
+msgid "Do you want to display Book Appointment button on Header Style 3 ?"
+msgstr ""
+
+#: include/medicalpro-config.php:988
+msgid "Display Slider or Image on Header Style 3"
+msgstr ""
+
+#: include/medicalpro-config.php:1004
+msgid "Banner Image for Header Style 3"
+msgstr ""
+
+#: include/medicalpro-config.php:1005
+msgid "Upload your image to display in Header Style 3"
+msgstr ""
+
+#: include/medicalpro-config.php:1064
+msgid "Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1071
+msgid "Display Top Header Bar on Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1091
+msgid ""
+"Select Blog Header you want to display on blog if header is not select while "
+"page creation."
+msgstr ""
+
+#: include/medicalpro-config.php:1117
+msgid "Display Book Appointment button on Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1118
+msgid "Do you want to display Book Appointment button on Default Blog Header ?"
+msgstr ""
+
+#: include/medicalpro-config.php:1126
+msgid "Display Slider or Image on Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1143
+msgid "Banner Image for Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1144
+msgid "Upload your image to display in Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1154
+msgid "Provide the Sub Title to display in Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1156
+msgid "BLOG NEW"
+msgstr ""
+
+#: include/medicalpro-config.php:1162
+msgid "Provide the Title to display in Default Blog Header"
+msgstr ""
+
+#: include/medicalpro-config.php:1164
+msgid "WHAT'S NEW IN MEDICALPRO"
+msgstr ""
+
+#: include/medicalpro-config.php:1206
+msgid "Contact Us"
+msgstr ""
+
+#: include/medicalpro-config.php:1213 single-doctor.php:90
+#: template-contact.php:74
+msgid "Address"
+msgstr ""
+
+#: include/medicalpro-config.php:1214
+msgid "Provide the Address to display under address section"
+msgstr ""
+
+#: include/medicalpro-config.php:1222
+msgid "Provide the Email Address to display under address section"
+msgstr ""
+
+#: include/medicalpro-config.php:1229
+msgid "Provide the Phone No. to display under address section"
+msgstr ""
+
+#: include/medicalpro-config.php:1235
+msgid "Display Map?"
+msgstr ""
+
+#: include/medicalpro-config.php:1236
+msgid "Do you want to display map?"
+msgstr ""
+
+#: include/medicalpro-config.php:1244
+msgid "Latitude"
+msgstr ""
+
+#: include/medicalpro-config.php:1251
+msgid "Longitude"
+msgstr ""
+
+#: include/medicalpro-config.php:1258
+msgid "Google API Key"
+msgstr ""
+
+#: include/medicalpro-config.php:1268 include/theme-functions.php:724
+#: vc_extend/services.php:7
+msgid "Services"
+msgstr ""
+
+#: include/medicalpro-config.php:1275
+msgid "Display Read More button?"
+msgstr ""
+
+#: include/medicalpro-config.php:1276
+msgid "Do you want to display Read More button on home page service Style 2?"
+msgstr ""
+
+#: include/medicalpro-config.php:1284 include/medicalpro-config.php:1310
+msgid "Read More Button Text"
+msgstr ""
+
+#: include/medicalpro-config.php:1291
+msgid "Trusted Service Text"
+msgstr ""
+
+#: include/medicalpro-config.php:1292
+msgid "Provide text for Trusted Service label on image on Style 2?"
+msgstr ""
+
+#: include/medicalpro-config.php:1302
+msgid "Blogs"
+msgstr ""
+
+#: include/medicalpro-config.php:1316
+msgid "Display Blog Author name?"
+msgstr ""
+
+#: include/medicalpro-config.php:1317
+msgid "Do you want to display Author Name?"
+msgstr ""
+
+#: include/medicalpro-config.php:1325
+msgid "Display Blog Created Date?"
+msgstr ""
+
+#: include/medicalpro-config.php:1326
+msgid "Do you want to display Blog Created Date?"
+msgstr ""
+
+#: include/medicalpro-config.php:1334
+msgid "Display Blog Comments Counts?"
+msgstr ""
+
+#: include/medicalpro-config.php:1335
+msgid "Do you want to display Blog Comments Count?"
+msgstr ""
+
+#: include/medicalpro-config.php:1347 include/theme-functions.php:718
+msgid "Gallery"
+msgstr ""
+
+#: include/medicalpro-config.php:1354
+msgid "Display Related Gallery?"
+msgstr ""
+
+#: include/medicalpro-config.php:1355
+msgid "Do you want to display Related Gallery?"
+msgstr ""
+
+#: include/medicalpro-config.php:1363
+msgid "Related Gallery Items Title"
+msgstr ""
+
+#: include/medicalpro-config.php:1370
+msgid "Related Gallery Items Description"
+msgstr ""
+
+#: include/medicalpro-config.php:1381
+msgid "Forms"
+msgstr ""
+
+#: include/medicalpro-config.php:1393
+msgid "Book Appointment"
+msgstr ""
+
+#: include/medicalpro-config.php:1400
+msgid "Book Appointment Type"
+msgstr ""
+
+#: include/medicalpro-config.php:1402
+msgid "Offline Booking"
+msgstr ""
+
+#: include/medicalpro-config.php:1403
+msgid "Online Booking"
+msgstr ""
+
+#: include/medicalpro-config.php:1410
+msgid "Select Book Appointment Page"
+msgstr ""
+
+#: include/medicalpro-config.php:1417 include/medicalpro-config.php:1504
+#: include/medicalpro-config.php:1583
+msgid ""
+"You can use bellow tags in message box, it will replace with user entered "
+"data."
+msgstr ""
+
+#: include/medicalpro-config.php:1418
+msgid ""
+"{#FIRST_NAME#}, {#LAST_NAME#}, {#EMAIL#}, {#PHONE#}, {#BOOKING_DATE#}, "
+"{#MESSAGE#}"
+msgstr ""
+
+#: include/medicalpro-config.php:1424 include/medicalpro-config.php:1510
+#: include/medicalpro-config.php:1589
+msgid "To Email"
+msgstr ""
+
+#: include/medicalpro-config.php:1432 include/medicalpro-config.php:1472
+#: include/medicalpro-config.php:1517 include/medicalpro-config.php:1553
+#: include/medicalpro-config.php:1596 include/medicalpro-config.php:1629
+msgid "Subject"
+msgstr ""
+
+#: include/medicalpro-config.php:1433
+msgid "{#FIRST_NAME#} {#LAST_NAME#} has booked appointment"
+msgstr ""
+
+#: include/medicalpro-config.php:1439 include/medicalpro-config.php:1479
+#: include/medicalpro-config.php:1523 include/medicalpro-config.php:1560
+#: include/medicalpro-config.php:1602 include/medicalpro-config.php:1636
+#: vc_extend/appointment_form.php:121
+msgid "Message"
+msgstr ""
+
+#: include/medicalpro-config.php:1455 include/medicalpro-config.php:1537
+#: include/medicalpro-config.php:1613
+msgid "Send email to client?"
+msgstr ""
+
+#: include/medicalpro-config.php:1464 include/medicalpro-config.php:1545
+#: include/medicalpro-config.php:1621
+msgid "From Email"
+msgstr ""
+
+#: include/medicalpro-config.php:1473
+msgid "Thank you for book appointment"
+msgstr ""
+
+#: include/medicalpro-config.php:1496
+msgid "Get in Touch"
+msgstr ""
+
+#: include/medicalpro-config.php:1505
+msgid "{#FIRST_NAME#}, {#LAST_NAME#}, {#EMAIL#}, {#PHONE#}, {#MESSAGE#}"
+msgstr ""
+
+#: include/medicalpro-config.php:1518
+msgid "{#FIRST_NAME#} {#LAST_NAME#} has submitted contact form"
+msgstr ""
+
+#: include/medicalpro-config.php:1554
+msgid "Thank you for get in touch with us"
+msgstr ""
+
+#: include/medicalpro-config.php:1575
+msgid "Signup Newsletter"
+msgstr ""
+
+#: include/medicalpro-config.php:1584
+msgid "{#NAME#}, {#EMAIL#}"
+msgstr ""
+
+#: include/medicalpro-config.php:1597
+msgid "{#NAME#} has signup newsletter"
+msgstr ""
+
+#: include/medicalpro-config.php:1630
+msgid "Thank you for signup newsletter"
+msgstr ""
+
+#: include/medicalpro-config.php:1651
+msgid "Call To Action"
+msgstr ""
+
+#: include/medicalpro-config.php:1652
+msgid "Call to Action details"
+msgstr ""
+
+#: include/medicalpro-config.php:1658
+msgid "Call to Action bar"
+msgstr ""
+
+#: include/medicalpro-config.php:1659
+msgid "Do you want to display Call To Action bar ?"
+msgstr ""
+
+#: include/medicalpro-config.php:1667
+msgid "Call To Action Bar Design"
+msgstr ""
+
+#: include/medicalpro-config.php:1668
+msgid "Select the Call to action bar design variation that you want to use."
+msgstr ""
+
+#: include/medicalpro-config.php:1679
+msgid "Call To Action Sub Title"
+msgstr ""
+
+#: include/medicalpro-config.php:1680
+msgid "Provide your sub-title text to display on Call TO Action Bar."
+msgstr ""
+
+#: include/medicalpro-config.php:1681
+msgid "BOOKING IS EASY"
+msgstr ""
+
+#: include/medicalpro-config.php:1687
+msgid "Call To Action Title"
+msgstr ""
+
+#: include/medicalpro-config.php:1688
+msgid "Provide your title text to display on Call TO Action Bar."
+msgstr ""
+
+#: include/medicalpro-config.php:1689
+msgid "ONLINE HASSLE FREE APPOINTMENT BOOKING"
+msgstr ""
+
+#: include/medicalpro-config.php:1694
+msgid "Call To Action Description"
+msgstr ""
+
+#: include/medicalpro-config.php:1695
+msgid "Provide your description to display on Call TO Action Bar."
+msgstr ""
+
+#: include/medicalpro-config.php:1696
+msgid ""
+"online hassle free appointment booking online hassle free appointment "
+"booking online hassle free appointment booking online hassle free "
+"appointment booking"
+msgstr ""
+
+#: include/medicalpro-config.php:1702
+msgid "Call To Action Button Text"
+msgstr ""
+
+#: include/medicalpro-config.php:1703
+msgid "Provide your Button text to display on Call TO Action Bar"
+msgstr ""
+
+#: include/medicalpro-config.php:1716
+msgid "Footer"
+msgstr ""
+
+#: include/medicalpro-config.php:1718
+msgid "This section contains footer related options."
+msgstr ""
+
+#: include/medicalpro-config.php:1724 include/medicalpro-config.php:1725
+msgid "Select Footer"
+msgstr ""
+
+#: include/medicalpro-config.php:1730
+msgid "Copyright Text"
+msgstr ""
+
+#: include/medicalpro-config.php:1731
+msgid "&copy; MEDICALPRO 2015. Made with love for great people."
+msgstr ""
+
+#: include/medicalpro-config.php:1736
+msgid "Social Icons"
+msgstr ""
+
+#: include/medicalpro-config.php:1737
+msgid "Do you want to display social icons in footer ?"
+msgstr ""
+
+#: include/medicalpro-config.php:1745
+msgid "Skype Username"
+msgstr ""
+
+#: include/medicalpro-config.php:1746
+msgid "Provide skype username to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1753
+msgid "Twitter"
+msgstr ""
+
+#: include/medicalpro-config.php:1754
+msgid "Provide twitter url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1761
+msgid "Facebook"
+msgstr ""
+
+#: include/medicalpro-config.php:1762
+msgid "Provide facebook url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1769
+msgid "Google+"
+msgstr ""
+
+#: include/medicalpro-config.php:1770
+msgid "Provide google+ url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1777
+msgid "LinkedIn"
+msgstr ""
+
+#: include/medicalpro-config.php:1778
+msgid "Provide LinkedIn url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1785
+msgid "Pinterest"
+msgstr ""
+
+#: include/medicalpro-config.php:1786
+msgid "Provide Pinterest url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1793
+msgid "Instagram"
+msgstr ""
+
+#: include/medicalpro-config.php:1794
+msgid "Provide Instagram url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1801
+msgid "YouTube"
+msgstr ""
+
+#: include/medicalpro-config.php:1802
+msgid "Provide YouTube url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1809
+msgid "RSS"
+msgstr ""
+
+#: include/medicalpro-config.php:1810
+msgid "Provide RSS feed url to display its icon."
+msgstr ""
+
+#: include/medicalpro-config.php:1823
+msgid "General"
+msgstr ""
+
+#: include/medicalpro-config.php:1825
+msgid "This section contains general options."
+msgstr ""
+
+#: include/medicalpro-config.php:1830 include/medicalpro-config.php:1831
+msgid "Select Blog Style"
+msgstr ""
+
+#: include/medicalpro-config.php:1832
+msgid "Select Blog style for display post"
+msgstr ""
+
+#: include/medicalpro-config.php:1840 include/medicalpro-config.php:1841
+msgid "Select Blog Page"
+msgstr ""
+
+#: include/medicalpro-config.php:1842
+msgid "Select Blog page for View all post url"
+msgstr ""
+
+#: include/medicalpro-config.php:1848 include/medicalpro-config.php:1849
+msgid "Select Doctor Page"
+msgstr ""
+
+#: include/medicalpro-config.php:1850
+msgid "Select Doctor page for View all doctors"
+msgstr ""
+
+#: include/medicalpro-config.php:1856 include/medicalpro-config.php:1857
+msgid "Select About MedicalPro Page"
+msgstr ""
+
+#: include/medicalpro-config.php:1858
+msgid "Select About MedicalPro page"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:345
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:346
+msgid "Install Plugins"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:350
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:351
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:403
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:404
+#: include/plugins/class-tgm-plugin-activation.php:923
+#: include/plugins/class-tgm-plugin-activation.php:2629
+#: include/plugins/class-tgm-plugin-activation.php:3676
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:405
+#: include/plugins/class-tgm-plugin-activation.php:3255
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:406
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:408
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:410
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:412
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:413
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:414
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:415
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:618
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:619
+msgid "Update Required"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:1030
+#: include/plugins/class-tgm-plugin-activation.php:1033
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:1033
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2369
+msgid "Required"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2372
+msgid "Recommended"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2388
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2391
+msgid "External Source"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2394
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2411
+msgid "Not Installed"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2415
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2417
+msgid "Active"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2423
+msgid "Required Update not Available"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2426
+msgid "Requires Update"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2429
+msgid "Update recommended"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2586
+msgid "Installed version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2594
+msgid "Minimum required version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2606
+msgid "Available version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2629
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2643
+msgid "Plugin"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2644
+msgid "Source"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2645
+msgid "Type"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2649
+msgid "Version"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2650
+#: woocommerce/myaccount/my-orders.php:34
+#: woocommerce/myaccount/my-orders.php:55
+msgid "Status"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2704
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2710
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2780
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2813
+msgid "Install"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2819
+msgid "Update"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2822
+msgid "Activate"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2853
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2855
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2896
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2898
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3004
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3030
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3254
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3603
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3605
+#: include/plugins/class-tgm-plugin-activation.php:3613
+msgid "Show Details"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3605
+#: include/plugins/class-tgm-plugin-activation.php:3613
+msgid "Hide Details"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3606
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3611
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3614
+msgid "All installations have been completed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3616
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/theme-functions.php:455
+msgid "Comments"
+msgstr ""
+
+#: include/theme-functions.php:500
+msgid "author"
+msgstr ""
+
+#: include/theme-functions.php:504
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: include/theme-functions.php:516 woocommerce/myaccount/my-address.php:51
+msgid "Edit"
+msgstr ""
+
+#: include/theme-functions.php:541 include/widget-footer-newsletter.php:25
+#: include/widget-footer-newsletter.php:38
+msgid "Your Name"
+msgstr ""
+
+#: include/theme-functions.php:542
+msgid "E-Mail"
+msgstr ""
+
+#: include/theme-functions.php:543
+msgid "Website"
+msgstr ""
+
+#: include/theme-functions.php:548
+msgid "Comment"
+msgstr ""
+
+#: include/theme-functions.php:641
+msgid " < "
+msgstr ""
+
+#: include/theme-functions.php:642
+msgid " > "
+msgstr ""
+
+#: include/theme-functions.php:688
+msgid "Blog"
+msgstr ""
+
+#: include/theme-functions.php:712 vc_extend/doctors.php:7
+msgid "Doctors"
+msgstr ""
+
+#: include/theme-functions.php:730
+msgid "Departments"
+msgstr ""
+
+#: include/theme-functions.php:744
+msgid "Tag: "
+msgstr ""
+
+#: include/theme-functions.php:751
+msgid "404 - Page not Found"
+msgstr ""
+
+#: include/theme-functions.php:758
+msgid "Search"
+msgstr ""
+
+#: include/vc-update.php:11
+msgid "Center content?"
+msgstr ""
+
+#: include/vc-update.php:20
+msgid "Margin Top"
+msgstr ""
+
+#: include/vc-update.php:22 include/vc-update.php:29 include/vc-update.php:36
+#: include/vc-update.php:43 include/vc-update.php:50 include/vc-update.php:57
+msgid "eg. 20px"
+msgstr ""
+
+#: include/vc-update.php:23 include/vc-update.php:30
+msgid "Margin"
+msgstr ""
+
+#: include/vc-update.php:27
+msgid "Margin Bottom"
+msgstr ""
+
+#: include/vc-update.php:34
+msgid "Padding Top"
+msgstr ""
+
+#: include/vc-update.php:37 include/vc-update.php:44 include/vc-update.php:51
+#: include/vc-update.php:58
+msgid "Padding"
+msgstr ""
+
+#: include/vc-update.php:41
+msgid "Padding Right"
+msgstr ""
+
+#: include/vc-update.php:48
+msgid "Padding Bottom"
+msgstr ""
+
+#: include/vc-update.php:55
+msgid "Padding Left"
+msgstr ""
+
+#: include/vc-update.php:62
+msgid "Border Color"
+msgstr ""
+
+#: include/vc-update.php:65 include/vc-update.php:77 include/vc-update.php:84
+msgid "Border"
+msgstr ""
+
+#: include/vc-update.php:69
+msgid "Border Style"
+msgstr ""
+
+#: include/vc-update.php:72
+msgid "None"
+msgstr ""
+
+#: include/vc-update.php:73
+msgid "Solid"
+msgstr ""
+
+#: include/vc-update.php:74
+msgid "Dotted"
+msgstr ""
+
+#: include/vc-update.php:75
+msgid "Dashed"
+msgstr ""
+
+#: include/vc-update.php:81
+msgid "Border Width"
+msgstr ""
+
+#: include/vc-update.php:83
+msgid ""
+"The width of your border. (eg. 1px 1px 1px 1px) Note: the widths are in this "
+"order: top right bottom left"
+msgstr ""
+
+#: include/widget-departments.php:10
+msgid "Medical Pro Department"
+msgstr ""
+
+#: include/widget-departments.php:10
+msgid "Display Department List"
+msgstr ""
+
+#: include/widget-departments.php:47
+msgid "Other Department"
+msgstr ""
+
+#: include/widget-departments.php:50 include/widget-future-box.php:54
+#: include/widget-recent-post.php:60 include/widget-services.php:50
+msgid "Title:"
+msgstr ""
+
+#: include/widget-footer-contact.php:10
+msgid "Medical Pro Footer Contact"
+msgstr ""
+
+#: include/widget-footer-contact.php:10 include/widget-footer-newsletter.php:10
+#: include/widget-recent-post.php:10
+msgid "Display Recent Post"
+msgstr ""
+
+#: include/widget-footer-contact.php:50
+msgid ""
+"Area 51 , Some near unknown,\n"
+"USA 000000"
+msgstr ""
+
+#: include/widget-footer-contact.php:51
+msgid "info@medicalprotheme.com"
+msgstr ""
+
+#: include/widget-footer-contact.php:52
+msgid "123 7890 456"
+msgstr ""
+
+#: include/widget-footer-contact.php:55
+msgid "Address:"
+msgstr ""
+
+#: include/widget-footer-contact.php:59
+#: woocommerce/order/order-details-customer.php:26
+msgid "Email:"
+msgstr ""
+
+#: include/widget-footer-contact.php:63
+msgid "Phone:"
+msgstr ""
+
+#: include/widget-footer-newsletter.php:10
+msgid "Medical Pro Footer Newsletter"
+msgstr ""
+
+#: include/widget-footer-newsletter.php:26
+#: include/widget-footer-newsletter.php:42 vc_extend/appointment_form.php:107
+msgid "Enter your Email Address"
+msgstr ""
+
+#: include/widget-footer-newsletter.php:37
+msgid "Enter your Name"
+msgstr ""
+
+#: include/widget-footer-newsletter.php:65
+msgid "Style 1"
+msgstr ""
+
+#: include/widget-footer-newsletter.php:72
+msgid "Style 2"
+msgstr ""
+
+#: include/widget-future-box.php:10
+msgid "Medical Pro Future Box"
+msgstr ""
+
+#: include/widget-future-box.php:10
+msgid "Display Future Box with details"
+msgstr ""
+
+#: include/widget-future-box.php:44
+msgid "#"
+msgstr ""
+
+#: include/widget-future-box.php:46
+msgid "#0186d5"
+msgstr ""
+
+#: include/widget-future-box.php:50
+msgid "Sub Title:"
+msgstr ""
+
+#: include/widget-future-box.php:58
+msgid "Content:"
+msgstr ""
+
+#: include/widget-future-box.php:63
+msgid "URL Text:"
+msgstr ""
+
+#: include/widget-future-box.php:67
+msgid "URL:"
+msgstr ""
+
+#: include/widget-future-box.php:71
+msgid "Background Color Code:"
+msgstr ""
+
+#: include/widget-recent-post.php:10
+msgid "Medical Pro Recent Post"
+msgstr ""
+
+#: include/widget-recent-post.php:37 partial/post-meta.php:10
+#: vc_extend/recent_posts.php:107 vc_extend/recent_posts.php:178
+msgid "on"
+msgstr ""
+
+#: include/widget-recent-post.php:56 vc_extend/recent_posts.php:7
+#: vc_extend/recent_posts.php:19 vc_extend/recent_posts.php:57
+msgid "Recent Post"
+msgstr ""
+
+#: include/widget-recent-post.php:64
+msgid "Number of posts to show:"
+msgstr ""
+
+#: include/widget-services.php:10
+msgid "Medical Pro Services"
+msgstr ""
+
+#: include/widget-services.php:10
+msgid "Display Services List"
+msgstr ""
+
+#: include/widget-services.php:47
+msgid "Other Services"
+msgstr ""
+
+#: partial/common-gallery.php:36 template-doctor.php:19
+msgid "All"
+msgstr ""
+
+#: partial/common-gallery.php:128 taxonomy-gallery-type.php:68
+msgid "No gallery item found!"
+msgstr ""
+
+#: partial/post-meta.php:8 vc_extend/recent_posts.php:107
+#: vc_extend/recent_posts.php:178
+msgid "By"
+msgstr ""
+
+#: partial/post-meta.php:12
+msgid "comments"
+msgstr ""
+
+#: single-doctor.php:78
+msgid "book appointment"
+msgstr ""
+
+#: single-doctor.php:97
+msgid "Educations"
+msgstr ""
+
+#: single-doctor.php:104
+msgid "Awards & Recognition"
+msgstr ""
+
+#: single-doctor.php:114
+msgid "office hours"
+msgstr ""
+
+#: single-doctor.php:128
+msgid "Certification(S)"
+msgstr ""
+
+#: single-doctor.php:135
+msgid "Contact info"
+msgstr ""
+
+#: single.php:27 single.php:180
+msgid "Pages:"
+msgstr ""
+
+#: single.php:258
+msgid "Previous post"
+msgstr ""
+
+#: single.php:259
+msgid "Next post"
+msgstr ""
+
+#: single.php:287
+msgid "Author"
+msgstr ""
+
+#: single.php:291 vc_extend/recent_posts.php:79
+msgid "view all posts"
+msgstr ""
+
+#: template-contact.php:21
+msgid "get in touch"
+msgstr ""
+
+#: template-contact.php:29 vc_extend/appointment_form.php:97
+msgid "First Name"
+msgstr ""
+
+#: template-contact.php:33
+msgid "E-mail Address"
+msgstr ""
+
+#: template-contact.php:39 vc_extend/appointment_form.php:101
+msgid "Last Name"
+msgstr ""
+
+#: template-contact.php:43 vc_extend/appointment_form.php:110
+msgid "Phone Number"
+msgstr ""
+
+#: template-contact.php:50
+msgid "Details/Comments"
+msgstr ""
+
+#: template-contact.php:57
+msgid "Something went wrong, try refreshing and submitting the form again."
+msgstr ""
+
+#: template-contact.php:64 woocommerce/single-product-reviews.php:68
+msgid "Submit"
+msgstr ""
+
+#: template-contact.php:69
+msgid ""
+"Your message was sent successfully! I will be in touch as soon as I can."
+msgstr ""
+
+#: template-contact.php:97
+msgid "Direction"
+msgstr ""
+
+#: template-home.php:21
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: vc_extend/appointment_form.php:7
+msgid "Appointment Form"
+msgstr ""
+
+#: vc_extend/appointment_form.php:10
+#: vc_extend/appointment_horizontal_form.php:10 vc_extend/department.php:10
+#: vc_extend/doctors.php:10 vc_extend/future_boxes.php:9
+#: vc_extend/recent_posts.php:10 vc_extend/services.php:10
+#: vc_extend/testimonials.php:10
+msgid "Medical Pro"
+msgstr ""
+
+#: vc_extend/appointment_form.php:17
+#: vc_extend/appointment_horizontal_form.php:17
+msgid "Display Top Part"
+msgstr ""
+
+#: vc_extend/appointment_form.php:24
+#: vc_extend/appointment_horizontal_form.php:38
+msgid "Display Bottom Part"
+msgstr ""
+
+#: vc_extend/appointment_form.php:31
+msgid "Show Close Button"
+msgstr ""
+
+#: vc_extend/appointment_form.php:81
+msgid "BOOK"
+msgstr ""
+
+#: vc_extend/appointment_form.php:81
+msgid "NOW"
+msgstr ""
+
+#: vc_extend/appointment_form.php:98
+msgid "Your First Name"
+msgstr ""
+
+#: vc_extend/appointment_form.php:102
+msgid "Your Last Name"
+msgstr ""
+
+#: vc_extend/appointment_form.php:111
+msgid "Enter your Phone Number"
+msgstr ""
+
+#: vc_extend/appointment_form.php:114
+msgid "Booking Date"
+msgstr ""
+
+#: vc_extend/appointment_form.php:116
+msgid "Select the Appointment Date"
+msgstr ""
+
+#: vc_extend/appointment_form.php:122
+msgid "Write down the Message"
+msgstr ""
+
+#: vc_extend/appointment_form.php:125
+msgid "book your appointment now"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:7
+msgid "Appointment Horizontal Form "
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:26
+msgid "YOUR ONESTOP SOLUTION MEDICAL SERVICES"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:32
+msgid "Description"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:33
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed augue "
+"vitae ex vulputate venenatis."
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:73
+msgid "BOOK APPOINTMENT"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:98
+msgid "your full name"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:102
+msgid "your email address"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:106
+msgid "your phone number"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:111
+msgid "appointment date"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:117
+msgid "your message"
+msgstr ""
+
+#: vc_extend/appointment_horizontal_form.php:121
+msgid "Book Now"
+msgstr ""
+
+#: vc_extend/department.php:7
+msgid "Department"
+msgstr ""
+
+#: vc_extend/department.php:19 vc_extend/department.php:56
+msgid "GENERAL INFORMATION"
+msgstr ""
+
+#: vc_extend/department.php:26 vc_extend/department.php:57
+msgid "OUR DEPARTMENTS"
+msgstr ""
+
+#: vc_extend/department.php:31
+msgid "No. of Department"
+msgstr ""
+
+#: vc_extend/department.php:33
+msgid "Limit to maximum display Department"
+msgstr ""
+
+#: vc_extend/department.php:38 vc_extend/doctors.php:49
+#: vc_extend/services.php:49 vc_extend/testimonials.php:45
+msgid "Display Style"
+msgstr ""
+
+#: vc_extend/doctors.php:19 vc_extend/doctors.php:73
+msgid "our doctors"
+msgstr ""
+
+#: vc_extend/doctors.php:26 vc_extend/doctors.php:74
+msgid "experienced team"
+msgstr ""
+
+#: vc_extend/doctors.php:31
+msgid "No. of Doctor"
+msgstr ""
+
+#: vc_extend/doctors.php:33
+msgid "Limit to maximum display Doctors"
+msgstr ""
+
+#: vc_extend/doctors.php:38 vc_extend/services.php:38
+#: vc_extend/testimonials.php:38
+msgid "Order By"
+msgstr ""
+
+#: vc_extend/doctors.php:41 vc_extend/services.php:41
+#: woocommerce/single-product-reviews.php:63
+msgid "Name"
+msgstr ""
+
+#: vc_extend/doctors.php:42 vc_extend/services.php:42
+msgid "Newest"
+msgstr ""
+
+#: vc_extend/doctors.php:43 vc_extend/services.php:43
+msgid "Oldest"
+msgstr ""
+
+#: vc_extend/doctors.php:56
+msgid "Display Column"
+msgstr ""
+
+#: vc_extend/doctors.php:113
+msgid "view all doctors"
+msgstr ""
+
+#: vc_extend/future_boxes.php:7
+msgid "Boxes"
+msgstr ""
+
+#: vc_extend/future_boxes.php:26
+msgid "Content"
+msgstr ""
+
+#: vc_extend/future_boxes.php:31
+msgid "URL"
+msgstr ""
+
+#: vc_extend/future_boxes.php:36
+msgid "Box Background Color"
+msgstr ""
+
+#: vc_extend/future_boxes.php:42
+msgid "Box Background Icon"
+msgstr ""
+
+#: vc_extend/recent_posts.php:26 vc_extend/recent_posts.php:56
+msgid "From Our Blog"
+msgstr ""
+
+#: vc_extend/recent_posts.php:31
+msgid "No. of Post"
+msgstr ""
+
+#: vc_extend/recent_posts.php:33
+msgid "Limit to maximum display Post"
+msgstr ""
+
+#: vc_extend/recent_posts.php:38
+msgid "Column"
+msgstr ""
+
+#: vc_extend/services.php:19 vc_extend/services.php:66
+msgid "Get Well Soon"
+msgstr ""
+
+#: vc_extend/services.php:26 vc_extend/services.php:67
+msgid "MedicalPro Services"
+msgstr ""
+
+#: vc_extend/services.php:31
+msgid "No. of Services"
+msgstr ""
+
+#: vc_extend/services.php:33
+msgid "Limit to maximum display Services, 0 to unlimited"
+msgstr ""
+
+#: vc_extend/testimonials.php:7
+msgid "Testimonial"
+msgstr ""
+
+#: vc_extend/testimonials.php:19 vc_extend/testimonials.php:62
+msgid "What People Say"
+msgstr ""
+
+#: vc_extend/testimonials.php:26
+msgid "Testimonials"
+msgstr ""
+
+#: vc_extend/testimonials.php:31
+msgid "No. of Testimonials"
+msgstr ""
+
+#: vc_extend/testimonials.php:33
+msgid "Limit to maximum display Testimonials, 0 to unlimited"
+msgstr ""
+
+#: vc_extend/testimonials.php:63
+msgid "Our Testimonials"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:18
+msgid "Shopping Cart Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+msgid "Sub - Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:45
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:95
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:23
+msgid "Item Description"
+msgstr ""
+
+#: woocommerce/cart/cart.php:24
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26 woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:58
+#: woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:86
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:96
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:115
+msgid "Have a Promotional Code ?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:28
+msgid "Apply Code"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:72
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:80
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:17
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:43
+#: woocommerce/cart/shipping-calculator.php:48
+#: woocommerce/cart/shipping-calculator.php:60
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:49
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:69
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:77
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:84
+msgid "Update Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:64
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:33
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:45 woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:45 woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:33
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+#: woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:45
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:66
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+#: woocommerce/order/order-details-customer.php:43
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/order/order-details-customer.php:51
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:112
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:33
+#: woocommerce/myaccount/my-orders.php:52
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:47
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:19
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:33
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:45
+#: woocommerce/order/order-details-customer.php:53
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:28
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr ""
+
+#: woocommerce/product-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:36
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "RELATED PRODUCTS"
+msgstr ""
+
+#: woocommerce/single-product/review.php:44
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:56
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

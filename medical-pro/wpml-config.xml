@@ -1,0 +1,59 @@
+<wpml-config>
+    <admin-texts>
+        <key name="medicalpro_options">
+            <key name="favicon">
+                <key name="url" />
+            </key>
+            <key name="schedule_text_for_header" />
+            <key name="email_for_header" />
+            <key name="phoneno_for_header" />
+            <key name="website_logo_for_header1">
+                <key name="url" />
+            </key>
+            <key name="banner_image_for_header1">
+                <key name="url" />
+            </key>
+            <key name="website_logo_for_header2">
+                <key name="url" />
+            </key>
+            <key name="banner_image_for_header2">
+                <key name="url" />
+            </key>
+            <key name="website_logo_for_blog_header_default">
+                <key name="url" />
+            </key>
+            <key name="banner_image_for_blog_header_default">
+                <key name="url" />
+            </key>
+            <key name="sub_title_for_blog_header_default" />
+            <key name="title_for_blog_header_default" />
+            <key name="contactus_address" />
+            <key name="contactus_email_address" />
+            <key name="contactus_phone_number" />
+            <key name="book_appointment_admin_to_email" />
+            <key name="book_appointment_admin_subject" />
+            <key name="book_appointment_admin_body" />
+            <key name="book_appointment_client_from_email" />
+            <key name="book_appointment_client_subject" />
+            <key name="book_appointment_client_body" />
+            <key name="get_in_touch_admin_to_email" />
+            <key name="get_in_touch_admin_subject" />
+            <key name="get_in_touch_admin_body" />
+            <key name="get_in_touch_client_from_email" />
+            <key name="get_in_touch_client_subject" />
+            <key name="get_in_touch_client_body" />
+            <key name="newsletter_admin_to_email" />
+            <key name="newsletter_admin_subject" />
+            <key name="newsletter_admin_body" />
+            <key name="newsletter_client_from_email" />
+            <key name="newsletter_client_subject" />
+            <key name="newsletter_client_body" />
+            <key name="call_to_action_subtitle" />
+            <key name="call_to_action_title" />
+            <key name="call_to_action_description" />
+            <key name="call_to_action_button_text" />
+            <key name="footer_copyright" />
+            <key name="display_footer_social_icons" />
+        </key>
+    </admin-texts>
+</wpml-config>
